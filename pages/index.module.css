@@ -1,0 +1,60 @@
+.contents {
+  width: 800px;
+  margin: 0 auto;
+}
+.formSt {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  position: relative;
+}
+.formSt input {
+  width: 200px;
+  height: 50px;
+  border: 1px solid #7f92af;
+  margin-right: 10px;
+  padding-left: 10px;
+}
+.searchBtn {
+  width: 80px;
+  height: 50px;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #7f92af;
+  border: 1px solid #7f92af;
+}
+.article {
+  display: flex;
+}
+.articleLt {
+  width: 200px;
+}
+
+.articleRt {
+  margin-top: 25px;
+}
+
+.imgView {
+  width: 150px;
+  height: 150px;
+  margin: 30px;
+  display: block;
+}
+
+input.calendar {
+  width: 90px;
+  height: 50px;
+  margin: 0;
+  background-color: cadetblue;
+  border-radius: 5px;
+  color: #fff;
+  position: absolute;
+  right: 0;
+  top: -30px;
+}
+.txtDate {
+  font-size: 12px;
+  color: cadetblue;
+  font-weight: bold;
+}
